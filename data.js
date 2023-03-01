@@ -1,4 +1,4 @@
-export const clients = [
+export const dataClients = [
 	{
 		fullName: 'Pedro Raul',
 		adress: 'Buenos Aires 1032',
